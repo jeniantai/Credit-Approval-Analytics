@@ -2,7 +2,7 @@
 
 
 ### Problem
-Some banks still have most of their loan decisions made by combining external credit score data (e.g. FICO score) with rules that their analysts create manually (primarily by writing SQL queries). This exercise is to make use of their internal data and machine learning power to improve precision and efficiency of the loan approval process. 
+Some banks still have most of their loan decisions made by combining external credit score data (e.g. FICO score) with rules that their analysts create manually (primarily by writing SQL queries). This exercise is to help a bank to make use of their internal data and machine learning power in order to improve precision and efficiency of the loan approval process. 
 
 ### Approach
 1. Data Understanding

@@ -12,6 +12,7 @@ Some banks still have most of their loan decisions made by combining external cr
 - XGBosst
 - Random Forest
 
-3. Build a presentation of the results
-- Presents the results in a client/user-friendly fashion
+### Result
+Compare AUC of three models, suggest further refinement for the models.
+Then, build a presentation of explaining the relationship, tradeoffs and results in a client/user-friendly fashion
     
